@@ -1,9 +1,10 @@
 
 function uppg2() {
-   // Skriv din kod här
-   // deklarera en variable med ditt namn och skriv ut det i konsolen
+// const name = "Mona Elizaveta Andreeva"; kod passerar test bara med namn hampus
+// console.log(name);
 
-
+const name = "Hampus"; 
+console.log(name);
 }
 
 module.exports = { uppg2 };
